@@ -1,2 +1,2 @@
 # gut-diversity
-machine learning model to estimate gut microbiome diversity in mice
+cnn to estimate gut microbiome diversity in mice
